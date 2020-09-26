@@ -1,4 +1,5 @@
 # https://codeforces.com/problemset/problem/71/A
+# Solved
 
 n = int(input())
 my_list = []
