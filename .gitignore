@@ -1,2 +1,5 @@
-DominoPiling.exe
+*.exe
+!StringTask.exe
+.exe
 BIt++.exe
+DominoPiling.exe
